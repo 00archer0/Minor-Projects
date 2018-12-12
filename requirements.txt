@@ -1,0 +1,4 @@
+Flask
+Selenium
+chromedriver-binary
+bs4
